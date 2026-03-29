@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Episode 7: OpenAI Kills Sora For Work AGI",
             date: "Mar 29, 2026",
-            fileUrl: "WeekofMar29.wav"
+            fileUrl: "WeekOfMar29.wav"
         },
         {
             title: "Episode 6: Agents, Mini Models, and the Copyright Wars Begin",
