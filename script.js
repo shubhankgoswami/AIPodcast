@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Episode 9: The shift to Work AGI",
             date: "Apr 12, 2026",
-            fileUrl: "WeekofApr12.wav"
+            fileUrl: "WeekOfApr12.wav"
         },
         {
             title: "Episode 8: Could Work AGI replace middle management?",
