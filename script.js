@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             title: "Episode 8: Could Work AGI replace middle management?",
             date: "Apr 5, 2026",
-            fileUrl: "WeekofApr5.wav"
+            fileUrl: "WeekOfApr5.wav"
         },
         {
             title: "Episode 7: OpenAI Kills Sora For Work AGI",
