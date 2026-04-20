@@ -3,9 +3,14 @@ document.addEventListener('DOMContentLoaded', () => {
     // To add a new episode, just add a new object to the top of this array!
     const episodes = [
         {
+            title: "Episode 10: Managing The Agentic Shadow Org",
+            date: "Apr 19, 2026",
+            fileUrl: "WeekOfApr19.wav"
+        },
+        {
             title: "Episode 9: The shift to Work AGI",
             date: "Apr 12, 2026",
-            fileUrl: "WeekofApr12.wav"
+            fileUrl: "WeekOfApr12.wav"
         },
         {
             title: "Episode 8: Could Work AGI replace middle management?",
