@@ -3,6 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // To add a new episode, just add a new object to the top of this array!
     const episodes = [
         {
+            title: "Episode 12: OpenAI breaks free, multicloud era begins",
+            date: "May 3, 2026",
+            fileUrl: "WeekOfMay3.wav"
+        },
+        {
             title: "Episode 11: Enterprise Agents Dominate AI's Hardware Hunger Race",
             date: "Apr 26, 2026",
             fileUrl: "WeekOfApr26.wav"
