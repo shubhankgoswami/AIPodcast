@@ -3,6 +3,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // To add a new episode, just add a new object to the top of this array!
     const episodes = [
         {
+            title: "Episode 16: Anthropic's Trillion Dollar Agent Economy Boom",
+            date: "May 31, 2026",
+            fileUrl: "WeekOfMay31.wav"
+        },
+        {
             title: "Episode 15: Google and Microsoft Weaponize AI Agents",
             date: "May 24, 2026",
             fileUrl: "WeekOfMay24.wav"
