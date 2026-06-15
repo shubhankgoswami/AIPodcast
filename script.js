@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // To add a new episode, just add a new object to the top of this array!
     const episodes = [
         {
-            title: "Episode 18: OpenAI Goes Public, Claude Suspended",
+            title: "Episode 18: OpenAI Goes Public, Claude Fable Suspended",
             date: "Jun 15, 2026",
             fileUrl: "WeekOfJun15.wav"
         },
@@ -51,46 +51,6 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Episode 9: The shift to Work AGI",
             date: "Apr 12, 2026",
             fileUrl: "WeekOfApr12.wav"
-        },
-        {
-            title: "Episode 8: Could Work AGI replace middle management?",
-            date: "Apr 5, 2026",
-            fileUrl: "WeekOfApr5.wav"
-        },
-        {
-            title: "Episode 7: OpenAI Kills Sora For Work AGI",
-            date: "Mar 29, 2026",
-            fileUrl: "WeekOfMar29.wav"
-        },
-        {
-            title: "Episode 6: Agents, Mini Models, and the Copyright Wars Begin",
-            date: "Mar 22, 2026",
-            fileUrl: "WeekofMar22.wav"
-        },
-        {
-            title: "Episode 5: Agent Era Accelerates - Workflow Transformations",
-            date: "Mar 15, 2026",
-            fileUrl: "WeekofMar15.wav"
-        },
-        {
-            title: "Episode 4: Business Strategy for the Agent Age",
-            date: "Mar 8, 2026",
-            fileUrl: "WeekofMar8.wav"
-        },
-        {
-            title: "Episode 3: The Agentic Takeover and the Memory Squeeze",
-            date: "Mar 1, 2026",
-            fileUrl: "WeekofMar1.wav"
-        },
-        {
-            title: "Episode 2: The Capital Flywheel and Agentic Workflows",
-            date: "Feb 22, 2026",
-            fileUrl: "WeekofFeb22.wav"
-        },
-        {
-            title: "Episode 1: Anthropic's $380B Bet on AI Agents and More",
-            date: "Feb 16, 2026",
-            fileUrl: "WeekofFeb16.wav"
         }
     ];
 
