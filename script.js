@@ -66,46 +66,6 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Episode 17: Microsoft Dominates Enterprise AI With Specialized Models",
             date: "Jun 8, 2026",
             fileUrl: "WeekOfJun8.wav"
-        },
-        {
-            title: "Episode 16: Anthropic's Trillion Dollar Agent Economy Boom",
-            date: "May 31, 2026",
-            fileUrl: "WeekOfMay31.wav"
-        },
-        {
-            title: "Episode 15: Google and Microsoft Weaponize AI Agents",
-            date: "May 24, 2026",
-            fileUrl: "WeekOfMay24.wav"
-        },
-        {
-            title: "Episode 14: Nations Race for AI Citizenship Benefits",
-            date: "May 17, 2026",
-            fileUrl: "WeekOfMay17.wav"
-        },
-        {
-            title: "Episode 13: Regulation Eases While Enterprise AI Agents Rise",
-            date: "May 10, 2026",
-            fileUrl: "WeekOfMay10.wav"
-        },
-        {
-            title: "Episode 12: OpenAI breaks free, multicloud era begins",
-            date: "May 3, 2026",
-            fileUrl: "WeekOfMay3.wav"
-        },
-        {
-            title: "Episode 11: Enterprise Agents Dominate AI's Hardware Hunger Race",
-            date: "Apr 26, 2026",
-            fileUrl: "WeekOfApr26.wav"
-        },
-        {
-            title: "Episode 10: Managing The Agentic Shadow Org",
-            date: "Apr 19, 2026",
-            fileUrl: "WeekOfApr19.wav"
-        },
-        {
-            title: "Episode 9: The shift to Work AGI",
-            date: "Apr 12, 2026",
-            fileUrl: "WeekOfApr12.wav"
         }
     ];
 
